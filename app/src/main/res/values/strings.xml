@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">E-store</string>
+    <string name="username">Enter Email</string>
+    <string name="LogIn">Log In</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="email">Email or Username</string>
+    <string name="pass">Password</string>
+    <string name="forgetPass">Forgot Password?</string>
+</resources>
